@@ -230,7 +230,6 @@ header .header-content .header-content-inner p {
   display: block;
   max-width: 650px;
   margin: 0 auto 10px;
-  width: 95%
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -488,4 +487,9 @@ body {
 .phone {
   color: #20A39C;
 }
-\
+
+.roadie {
+  display: inline-block;
+  float: left;
+  margin-top: -24%;
+}
